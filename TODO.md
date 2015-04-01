@@ -39,3 +39,4 @@
 - [ ] Move all css edits to override file if possible
 - [x] Increase width of content
 - [x] Reduce heading font weight
+- [x] Fix link to defyantmedia
