@@ -1,7 +1,7 @@
 # todo
 
-- [ ] Import existing site into new branch
-- [ ] Import highlights theme from html5up.net
+- [x] Import existing site into new branch
+- [x] Import highlights theme from html5up.net
 - [ ] Move elements examples to separate file
 - [ ] Create basic structure and content
   - [ ] Enjoy your stay
@@ -19,6 +19,7 @@
     - [ ] Facebook
     - [ ] Google+
     - [ ] Yelp
+    - [ ] Trip advisor
 - [ ] Gallery
   - [ ] Motel and facilities
   - [ ] Local attractions
@@ -29,3 +30,5 @@
   - [ ] Gallery images
 - [ ] Navigation bar
 - [ ] Font for title/banner text
+- [ ] Additional testemonials from wotif etc.
+- [ ] Change font-awesome icons
