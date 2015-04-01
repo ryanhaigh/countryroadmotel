@@ -4,31 +4,31 @@
 - [x] Import highlights theme from html5up.net
 - [ ] Move elements examples to separate file
 - [ ] Create basic structure and content
-  - [ ] Enjoy your stay
-  - [ ] Motel facilities
-  - [ ] Rooms
-  - [ ] Room rates
-  - [ ] Local attractions
-  - [ ] Getting there
-  - [ ] Testemonials
+  - [x] Enjoy your stay
+  - [x] Motel facilities
+  - [x] Rooms
+  - [x] Room rates
+  - [x] Local attractions
+  - [x] Getting there
+  - [x] Testemonials
   - [ ] About us
-  - [ ] Contact Us/Book Now
+  - [x] Contact Us/Book Now
     - [ ] Woftif
     - [ ] Booking.com
   - [ ] Connect
-    - [ ] Facebook
-    - [ ] Google+
-    - [ ] Yelp
+    - [x] Facebook
+    - [x] Google+
+    - [x] Yelp
     - [ ] Trip advisor
 - [ ] Gallery
   - [ ] Motel and facilities
   - [ ] Local attractions
   - [ ] Guest images
-- [ ] Links and ids for page sections
+- [x] Links and ids for page sections
 - [ ] Images
   - [ ] Homepage images/backgrounds
   - [ ] Gallery images
 - [ ] Navigation bar
 - [ ] Font for title/banner text
 - [ ] Additional testemonials from wotif etc.
-- [ ] Change font-awesome icons
+- [x] Change font-awesome icons
