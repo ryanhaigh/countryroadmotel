@@ -26,7 +26,8 @@
   - [ ] Guest images
 - [x] Links and ids for page sections
 - [ ] Images
-  - [ ] Homepage images/backgrounds
+  - [x] Homepage images/backgrounds
+  - [ ] Hi-res images
   - [ ] Gallery images
 - [ ] Navigation bar
 - [ ] Font for title/banner text
