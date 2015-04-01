@@ -1220,3 +1220,23 @@
 						margin-left: 0;
 						padding-left: 0;
 					}
+					
+#footer footer ul.icons {
+  font-size:200%;
+}
+
+#facilities  .row {
+  text-align: left;
+}
+
+#rooms  .row {
+  text-align: left;
+}
+
+#attractions > div > div > ul {
+  text-align: left;
+}
+
+#rates > div > p {
+  text-align: center;
+}

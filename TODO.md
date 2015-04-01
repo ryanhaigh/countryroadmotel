@@ -2,7 +2,7 @@
 
 - [x] Import existing site into new branch
 - [x] Import highlights theme from html5up.net
-- [ ] Move elements examples to separate file
+- [x] Move elements examples to separate file
 - [ ] Create basic structure and content
   - [x] Enjoy your stay
   - [x] Motel facilities
@@ -33,3 +33,7 @@
 - [ ] Font for title/banner text
 - [ ] Additional testemonials from wotif etc.
 - [x] Change font-awesome icons
+- [x] Increase size of social icons
+- [x] Link to defyantmedia
+- [x] Move inline styling to css
+- [ ] Move all css edits to override file if possible
