@@ -1,0 +1,31 @@
+# todo
+
+- [ ] Import existing site into new branch
+- [ ] Import highlights theme from html5up.net
+- [ ] Move elements examples to separate file
+- [ ] Create basic structure and content
+  - [ ] Enjoy your stay
+  - [ ] Motel facilities
+  - [ ] Rooms
+  - [ ] Room rates
+  - [ ] Local attractions
+  - [ ] Getting there
+  - [ ] Testemonials
+  - [ ] About us
+  - [ ] Contact Us/Book Now
+    - [ ] Woftif
+    - [ ] Booking.com
+  - [ ] Connect
+    - [ ] Facebook
+    - [ ] Google+
+    - [ ] Yelp
+- [ ] Gallery
+  - [ ] Motel and facilities
+  - [ ] Local attractions
+  - [ ] Guest images
+- [ ] Links and ids for page sections
+- [ ] Images
+  - [ ] Homepage images/backgrounds
+  - [ ] Gallery images
+- [ ] Navigation bar
+- [ ] Font for title/banner text
