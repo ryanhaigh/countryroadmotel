@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Raleway:400,400italic,700,800");
+@import url(http://fonts.googleapis.com/css?family=Satisfy);
 
 /*
 	Highlights by HTML5 UP
@@ -84,7 +85,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #61686b;
-		font-weight: 800;
+		font-weight: 600;
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -301,6 +302,7 @@
 		letter-spacing: 0.05em;
 		text-transform: uppercase;
 	}
+	
 
 	header h1 + p {
 		margin-top: -1em;
@@ -1134,9 +1136,12 @@
 				}
 
 			#header header h1 {
-				font-size: 3em;
 				line-height: 1.25em;
 				margin: 0;
+        font-family: 'Satisfy', cursive;
+		    font-size: 4em;
+		    font-weight: normal;
+		    text-transform: capitalize;
 			}
 
 				#header header h1:after {
@@ -1153,7 +1158,7 @@
 			background: rgba(255, 255, 255, 0.95);
 			bottom: 0;
 			left: 50%;
-			margin-left: -17.5em;
+			margin-left: -20em;
 			padding: 2.5em;
 			position: absolute;
 		}
@@ -1239,4 +1244,8 @@
 
 #rates > div > p {
   text-align: center;
+}
+
+.container {
+  width: 40em;
 }

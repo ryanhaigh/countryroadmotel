@@ -30,10 +30,12 @@
   - [ ] Hi-res images
   - [ ] Gallery images
 - [ ] Navigation bar
-- [ ] Font for title/banner text
+- [x] Font for title/banner text
 - [ ] Additional testemonials from wotif etc.
 - [x] Change font-awesome icons
 - [x] Increase size of social icons
 - [x] Link to defyantmedia
 - [x] Move inline styling to css
 - [ ] Move all css edits to override file if possible
+- [x] Increase width of content
+- [x] Reduce heading font weight
