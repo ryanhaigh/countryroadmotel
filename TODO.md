@@ -43,7 +43,7 @@
 
 ## fixmobile
 
-- [ ] Prevent reducing width of book now buttons to text width
+- [x] Prevent reducing width of book now buttons to text width
 - [ ] 'Enjoy stay' paragraph not present on mobile
 - [ ] Nav hamburger doesn't lock to top of screen on mobile
 - [ ] Facilties blocks out of alignment on mobile in landscape mode
