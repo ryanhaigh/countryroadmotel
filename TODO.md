@@ -46,10 +46,7 @@
 
 - [x] Prevent reducing width of book now buttons to text width
 - [x] 'Enjoy stay' paragraph not present on mobile
-- [ ] Nav hamburger doesn't lock to top of screen on mobile
 - [x] Facilties blocks out of alignment on mobile in landscape mode
-- [ ] Nav button only loads nav panel on first use - possibly related to # url?
-- [ ] Put nav hamburger button in a nav bar on mobile
 - [x] Page width exceeds content - possibly due to map
 - [x] Allows scroll past all content - possibly to display image?
 - [x] Buttons in enjoy stay section have no vertical spacing <677px >480px width
@@ -64,3 +61,6 @@
 - [x] Initial view show only header
 - [x] Removing margin between facilities and room lists on xsmall res.
 - [x] Add space after facilities grid
+- [ ] Nav hamburger doesn't lock to top of screen on mobile
+- [ ] Nav button only loads nav panel on first use - possibly related to # url?
+- [ ] Put nav hamburger button in a nav bar on mobile
