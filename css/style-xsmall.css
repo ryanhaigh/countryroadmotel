@@ -64,13 +64,13 @@
 
 /* Button */
 
-	input[type="submit"],
-	input[type="reset"],
-	input[type="button"],
-	button,
-	.button {
-		padding: 0;
-	}
+	/*input[type="submit"],*/
+	/*input[type="reset"],*/
+	/*input[type="button"],*/
+	/*button,*/
+	/*.button {*/
+	/*	padding: 0;*/
+	/*}*/
 
 		input[type="submit"].icon,
 		input[type="reset"].icon,
@@ -106,3 +106,18 @@
 			margin: 0;
 			padding: 0;
 		}
+		
+/*Header*/
+		#header .container {
+			margin-left: -50%;
+		}
+		
+		
+/*Hacky		*/
+#facilities > div > div > div > div.\36 u.\31 2u\24 \28 xsmall\29 > ul {
+  margin-bottom: 0em;
+}
+
+#rooms > div > div > div > div.\36 u.\31 2u\24 \28 xsmall\29 > ul {
+  margin-bottom: 0em;
+}

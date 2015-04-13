@@ -41,3 +41,25 @@
 - [x] Reduce heading font weight
 - [x] Fix link to defyantmedia
 - [x] Add copyright assignment
+
+- [x] Prevent reducing width of book now buttons to text width
+- [x] 'Enjoy stay' paragraph not present on mobile
+- [x] Facilties blocks out of alignment on mobile in landscape mode
+- [x] Page width exceeds content - possibly due to map
+- [x] Allows scroll past all content - possibly to display image?
+- [x] Buttons in enjoy stay section have no vertical spacing <677px >480px width
+- [x] Retain facilities list as 2 columns until small/xsmall
+- [x] Contact us section buttons full width as per header
+- [x] Second column of facilities list still limited to 6u on mobile?
+- [x] Banner not visible on mobile. Covered by enjoy/intro section.
+- [x] Remove enjoy/intro section from header, moving to main content on mobile
+- [x] Hide new enjoy/intro section for resolutions >small
+- [x] Add button to header section to scroll to new enjoy/intro when <=small
+- [x] Override header button font to make white
+- [x] Initial view show only header
+- [x] Removing margin between facilities and room lists on xsmall res.
+- [x] Add space after facilities grid
+- [ ] Nav hamburger doesn't lock to top of screen on mobile
+- [ ] Nav button only loads nav panel on first use - possibly related to # url?
+- [ ] Put nav hamburger button in a nav bar on mobile
+>>>>>>> feature/fixmobile

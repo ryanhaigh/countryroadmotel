@@ -27,11 +27,11 @@
 /* Header */
 
 	#header {
-		height: 80vh;
+		height: 100vh;
 	}
 
 		#header:after {
-			height: 80vh;
+			height: 100vh;
 		}
 
 		#header header {
@@ -49,9 +49,38 @@
 		#header .container {
 			display: none;
 		}
-
+		
+		#header .container .button {
+		  width: 100%;
+		}
+		
+		#header > div > ul > li {
+		  padding: 1em 0 0 0;
+		  width: 100%;
+		}
 /* Footer */
 
 	#footer .container {
 		padding: 3em 1.5em 1em 1.5em;
 	}
+	
+	#footer .container .button {
+	  width: 100%;
+		}
+		
+	#footer > div > ul > li {
+	  padding: 1em 0 0 0;
+	  width: 100%;
+		}
+
+	#mobilebutton {
+  display:block;
+  padding-top: 2em;
+  }
+  
+  #mobileintro {
+    display:block;
+  }
+  #mobilebutton > ul > li > a {
+    color: white !important;
+  }

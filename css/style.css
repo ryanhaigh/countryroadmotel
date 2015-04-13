@@ -727,6 +727,7 @@
 				clear: both;
 				content: '';
 				display: block;
+				margin-bottom: 2em;
 			}
 
 		ul.actions {
@@ -1249,3 +1250,12 @@
 /*.container {*/
 /*  width: 40em;*/
 /*}*/
+
+/*Mobile Button*/
+#mobilebutton {
+  display:none;
+}
+
+#mobileintro {
+  display:none;
+}
