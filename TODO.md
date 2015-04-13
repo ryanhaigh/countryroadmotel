@@ -54,3 +54,11 @@
 - [x] Buttons in enjoy stay section have no vertical spacing <677px >480px width
 - [x] Retain facilities list as 2 columns until small/xsmall
 - [x] Contact us section buttons full width as per header
+- [ ] Second column of facilities list still limited to 6u on mobile?
+- [x] Banner not visible on mobile. Covered by enjoy/intro section.
+- [x] Remove enjoy/intro section from header, moving to main content on mobile
+- [x] Hide new enjoy/intro section for resolutions >small
+- [x] Add button to header section to scroll to new enjoy/intro when <=small
+- [x] Override header button font to make white
+- [x] Initial view show only header
+-
