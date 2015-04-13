@@ -40,3 +40,4 @@
 - [x] Increase width of content
 - [x] Reduce heading font weight
 - [x] Fix link to defyantmedia
+- [x] Add copyright assignment
