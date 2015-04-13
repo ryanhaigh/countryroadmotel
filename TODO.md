@@ -46,7 +46,7 @@
 - [x] Prevent reducing width of book now buttons to text width
 - [x] 'Enjoy stay' paragraph not present on mobile
 - [ ] Nav hamburger doesn't lock to top of screen on mobile
-- [ ] Facilties blocks out of alignment on mobile in landscape mode
+- [x] Facilties blocks out of alignment on mobile in landscape mode
 - [ ] Nav button only loads nav panel on first use - possibly related to # url?
 - [ ] Put nav hamburger button in a nav bar on mobile
 - [x] Page width exceeds content - possibly due to map
