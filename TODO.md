@@ -51,5 +51,5 @@
 - [ ] Put nav hamburger button in a nav bar on mobile
 - [x] Page width exceeds content - possibly due to map
 - [ ] Allows scroll past all content - possibly to display image?
-- [ ] Buttons in enjoy stay section have no vertical spacing <677px >480px width
+- [x] Buttons in enjoy stay section have no vertical spacing <677px >480px width
 - [ ] Retain facilities list as 2 columns until small/xsmall
