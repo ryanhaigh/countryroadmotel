@@ -40,6 +40,7 @@
 - [x] Increase width of content
 - [x] Reduce heading font weight
 - [x] Fix link to defyantmedia
+- [x] Add copyright info
 
 ## fixmobile
 
@@ -50,7 +51,7 @@
 - [ ] Nav button only loads nav panel on first use - possibly related to # url?
 - [ ] Put nav hamburger button in a nav bar on mobile
 - [x] Page width exceeds content - possibly due to map
-- [ ] Allows scroll past all content - possibly to display image?
+- [x] Allows scroll past all content - possibly to display image?
 - [x] Buttons in enjoy stay section have no vertical spacing <677px >480px width
 - [x] Retain facilities list as 2 columns until small/xsmall
 - [x] Contact us section buttons full width as per header
