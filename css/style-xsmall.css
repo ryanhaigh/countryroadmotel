@@ -111,3 +111,13 @@
 		#header .container {
 			margin-left: -50%;
 		}
+		
+		
+/*Hacky		*/
+#facilities > div > div > div > div.\36 u.\31 2u\24 \28 xsmall\29 > ul {
+  margin-bottom: 0em;
+}
+
+#rooms > div > div > div > div.\36 u.\31 2u\24 \28 xsmall\29 > ul {
+  margin-bottom: 0em;
+}
