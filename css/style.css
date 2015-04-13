@@ -727,6 +727,7 @@
 				clear: both;
 				content: '';
 				display: block;
+				margin-bottom: 2em;
 			}
 
 		ul.actions {

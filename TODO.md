@@ -62,4 +62,4 @@
 - [x] Override header button font to make white
 - [x] Initial view show only header
 - [x] Removing margin between facilities and room lists on xsmall res.
-- [ ] Add space after facilities grid
+- [x] Add space after facilities grid
