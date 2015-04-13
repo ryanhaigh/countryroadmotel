@@ -63,3 +63,12 @@
 	#footer .container {
 		padding: 3em 1.5em 1em 1.5em;
 	}
+	
+	#footer .container .button {
+	  width: 100%;
+		}
+		
+	#footer > div > ul > li {
+	  padding: 1em 0 0 0;
+	  width: 100%;
+		}

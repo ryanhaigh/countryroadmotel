@@ -53,4 +53,4 @@
 - [ ] Allows scroll past all content - possibly to display image?
 - [x] Buttons in enjoy stay section have no vertical spacing <677px >480px width
 - [x] Retain facilities list as 2 columns until small/xsmall
-- [ ] Contact us section buttons full width as per header
+- [x] Contact us section buttons full width as per header
