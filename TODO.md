@@ -52,4 +52,5 @@
 - [x] Page width exceeds content - possibly due to map
 - [ ] Allows scroll past all content - possibly to display image?
 - [x] Buttons in enjoy stay section have no vertical spacing <677px >480px width
-- [ ] Retain facilities list as 2 columns until small/xsmall
+- [x] Retain facilities list as 2 columns until small/xsmall
+- [ ] Contact us section buttons full width as per header
