@@ -106,3 +106,8 @@
 			margin: 0;
 			padding: 0;
 		}
+		
+/*Header*/
+		#header .container {
+			margin-left: -50%;
+		}
